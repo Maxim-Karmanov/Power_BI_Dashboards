@@ -25,3 +25,22 @@ Key Power BI Utilized:
 
 [**➡ View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
 
+## 📈 Data Jobs Dashboard (V2 - Single-Page Focus)
+
+![Data Jobs Dashvoard v2.0](/images/v2_page.png)
+
+Key Power BI Skills Utilized(demonstrating progression):
+- Advanced Dashboard Design (Single-Page UX & Optimization)
+- Complex Power Query Transformation
+- Star Schema Data Modeling Principles
+- Explicit DAX Measures (e.g., `CALCULATE`, context moddifiers)
+- Dynamic Vizualizations (driven by Parametrs/Slicers)
+- Field & Numeric Parameter Inplementation for "What-if" Analysis
+- Enhanced Geospatial Insights
+- Advanced Card Vizualizations
+- Optimized Slicers & Advanced Cross-Filtering Techiques
+- Report Performance Considerations
+
+[**➡ View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
+
+Each dashboard linked above has its own detailed `README.md` file within its respective project folder. These offer deeper insights into the project objectives, data sources, specific Power BI techniques employed, and a closer look at dashboard build.
